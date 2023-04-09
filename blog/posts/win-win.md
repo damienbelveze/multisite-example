@@ -1,3 +1,3 @@
-[lien vers fourthpost](fourthpost)
+[lien vers fourthpost](/posts/fourthpost)
 
 essai
