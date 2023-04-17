@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "2599a2328b74d323",
+    "type": "split",
+    "children": [
+      {
+        "id": "d940c3b459f89b46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c51242e05b903d0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ee05e5778644552",
+    "type": "split",
+    "children": [
+      {
+        "id": "040f15c40d709d5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab66893dc8628209",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b90e13f612f66c6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d9790436e84ab4b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "331351314ff78796",
+    "type": "split",
+    "children": [
+      {
+        "id": "89fba138966b18c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9845470f38785a3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2d8204bc9733db7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3cca168e7e558152",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "90b4c9268ee0d5eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "c51242e05b903d0b",
+  "lastOpenFiles": [
+    "example-note-2.md",
+    "example-note-1.md",
+    "hobby-knowledge-base/README.md",
+    "hobby-knowledge-base/docs/starfall.md",
+    "hobby-knowledge-base/docs/index.md",
+    "blog/posts/win-win.md",
+    "blog/posts/secondpost.md",
+    "blog/posts/thirdpost.md",
+    "blog/posts/fourthpost.md",
+    "blog/posts/firstpost.md"
+  ]
+}
